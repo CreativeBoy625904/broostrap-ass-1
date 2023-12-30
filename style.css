@@ -1,0 +1,38 @@
+
+p{
+    font-size: small;
+}
+.left-frist{
+position: absolute;
+    
+    top:30px;
+    left: 150px;
+}
+.left-second{
+    position: absolute;
+    left: 40px;
+    top: 190px;
+}
+.left-third{
+    position: absolute;
+    
+        bottom: 20px;
+        left: 190px;
+}
+.right-frist{
+position: absolute;
+    
+    top:30px;
+    right: 150px;
+}
+.right-second{
+    position: absolute;
+    right: 40px;
+    top: 190px;
+}
+.right-third{
+    position: absolute;
+    
+        bottom: 20px;
+        right: 190px;
+}
